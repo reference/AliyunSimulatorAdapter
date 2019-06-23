@@ -18,9 +18,7 @@ pod 'AliyunSimulatorAdapter'
 
 ## Usage
 
-```
-#import <AliyunSimulatorAdapter/AliyunSimulatorAdapter.h>
-```
+Do nothing more.
 
 ## License
 
